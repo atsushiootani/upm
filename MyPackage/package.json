@@ -1,0 +1,8 @@
+{
+  "name": "com.atsushiootani.MyPackage",
+  "version": "1.0.0",
+  "displayName": "My Package",
+  "description": "This is a sample Unity package.",
+  "unity": "2021.3",
+  "dependencies": {}
+}
